@@ -29,5 +29,5 @@ struct MockData {
     
     static let appetizers = [sampleAppetizer, sampleAppetizer, sampleAppetizer]
     //test string
-    //new account
+    //new account pull request
 }
