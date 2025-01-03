@@ -1,1 +1,1 @@
-# Appetizers
+# Appetizers app
